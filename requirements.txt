@@ -1,0 +1,9 @@
+﻿1. ultralytics (>=8.2.0): The core library containing the YOLOv10 implementation used for object detection.
+2. opencv-python (>=4.9.0): Essential for computer vision tasks, including video capturing, frame processing, and drawing annotations.
+3. numpy (>=1.24.0): Fundamental package for array manipulations, as video frames are processed as NumPy arrays.
+4. torch (>=2.0.0): The deep learning backend framework required to run the YOLO neural network.
+5. pandas (>=2.0.0): Used for data manipulation and analysis structures.
+6. pillow (>=10.0.0): Python Imaging Library (PIL) used for various image handling operations.
+7. matplotlib (>=3.7.0): Visualization library useful for plotting detection results or analytics.
+8. tqdm (>=4.65.0): Provides progress bars to visualize the processing speed and status.
+9. pyyaml (>=6.0): Used for parsing configuration files, common in machine learning workflows.
